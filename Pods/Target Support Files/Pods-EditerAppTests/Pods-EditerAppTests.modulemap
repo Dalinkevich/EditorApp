@@ -1,0 +1,6 @@
+framework module Pods_EditerAppTests {
+  umbrella header "Pods-EditerAppTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
